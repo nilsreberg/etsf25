@@ -1,10 +1,8 @@
 \documentclass[titlepage]{article}
 \usepackage{graphicx} % Required for inserting images
 
-\title{Placeholder Project Name}
-\author{ETSF25 Group E1:\\Thomas Dellwik: th5144de-s@student.lu.se\\Marina Fridh-Cardoso: ma0448fr-s@student.lu.se\\Nicolas Jaua Otero: ni1407ja-s@student.lu.se\\Viktor Jernberg: vi6832je-s@student.lu.se\\Erik Nicander: er0811ni-s@student.lu.se\\Nils Reberg: ni7877re-s@student.lu.se\\
-}
-\date{November 2024}
+\usepackage[T1]{fontenc}
+\usepackage{tgbonum}
 
 \def\companyName{shmap}
 
@@ -14,7 +12,9 @@
     \begin{center}
         \vspace*{1.5cm}
 
-        \textbf{{\Huge \companyName}}
+        {\fontfamily{phv}\selectfont
+            {\Huge \companyName}
+        }
 
         \vspace{0.5cm}
             {\large Convenient, united frontend for connecting\\
