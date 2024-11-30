@@ -93,10 +93,107 @@ For our initial market we would aim to partner with some individual stores in li
 
 \section{Risk assessment}
 
+\begin{center}
+\begin{tabular}{|p{3cm}|p{2cm}|p{2cm}|p{2cm}|p{2cm}|p{2cm}|}
+\hline
+ Specification & Probability & Consequences & Total Risk Estimation & Mitigation & Monitoring \\
+ \hline
+ \end{tabular}
+\end{center}
+
+\begin{center}
+\begin{tabular}{|p{3cm}|p{2cm}|p{2cm}|p{2cm}|p{2cm}|p{2cm}|}
+ \hline
+ \multicolumn{6}{|c|}{User Level} \\
+ \hline
+ Low involvement of users. Not interested in new tech/solution, do not consider the "problem" substantial enough to want a solution for it. Not interested in learning how to use it. & medium & high & medium & MOM-test. Prototyping to ensure simple, easy to use UI, good fit for the problem. Exclusive offers to attract customers. & Prototype to get feedback \\  
+ \hline
+ Low interest from businesses. Perceive gains as small compared to work required. Not willing to learn new technology. & high & high & high & Prioritize simple and quick maintenance on business-end. Integration into their WMS. Prototyping. On site support to set up. Offer training to staff. & Prototype to get feedback \\  
+ \hline
+ \end{tabular}
+\end{center}
+
+ \begin{center}
+ \begin{tabular}{|p{3cm}|p{2cm}|p{2cm}|p{2cm}|p{2cm}|p{2cm}|}
+ \hline
+ \multicolumn{6}{|c|}{Requirement gathering} \\
+ \hline
+ Requirements not deliverable: cannot get precise enough indoor location services for mapping & low & medium & low & Early testing. Adjust plan? Plan for alternative solution. & Research before starting implementation, alternative solution? \\
+ \hline
+ Misunderstanding or incomplete requirements. Misunderstood MOM-test results, and prospective users expect something other than what we have in mind. Missing important requirement for users to adopt our solution. Unspoken requirements: Do not want to create yet another account, do not wish to see a bunch of ads (which are part of our generating revenue). & low & medium & low & Prototyping, feedback including ads. & Prototype to get feedback \\
+ \hline
+ \end{tabular}
+ \end{center}
+
+ \begin{center}
+ \begin{tabular}{|p{3cm}|p{2cm}|p{2cm}|p{2cm}|p{2cm}|p{2cm}|}
+ \hline
+ \multicolumn{6}{|c|}{Planning} \\
+ \hline
+ Unrealistic schedule and budget, unrealistic goals. Inexperienced team leads to overestimation of our skills and an unrealistic timeplan. & medium & medium & medium & Leave extra room. Planning poker to estimate effort for different activities. If possible aqcuire a business-mentor to help and give feedback on how realistic our plan is. & Regular check-ins with timeplan \\
+ \hline
+ Poor planning. Not detailed enough/ insufficient granularity. Missed or overlooked steps. & medium & medium & medium & SPM-tools to try and develop a more detailed plan to minimize risk of missing something important. Planning poker: if large variation in estimated effort, or large effort for a given task, perhaps a sign it can (should) be broken down further? & Regular check-ins with timeplan \\
+ \hline
+ \end{tabular}
+ \end{center}
+
+
+
+\begin{center}
+ \begin{tabular}{|p{3cm}|p{2cm}|p{2cm}|p{2cm}|p{2cm}|p{2cm}|}
+ \hline
+ \multicolumn{6}{|c|}{Analysis} \\
+ \hline
+ Faulty cost-benefit analysis: planned development of a minor feature turns out to be much more expensive than initially expected & medium & low & low & Periodic revisions of the plan and re-prioritizing items. Using a fine granularity when planning to clarify what needs to get done. & Regular check-ins with timeplan \\
+ \hline
+ \end{tabular}
+ \end{center}
+
+ \begin{center}
+ \begin{tabular}{|p{3cm}|p{2cm}|p{2cm}|p{2cm}|p{2cm}|p{2cm}|}
+ \hline
+ \multicolumn{6}{|c|}{Design} \\
+ \hline
+ Lack of integrity in design elements, bad or difficult to use UI & low & low & low & Perform prototyping to get user feedback on UI & Prototype tp get feedback \\
+ \hline
+ Lack of proper architectural design and plan & low & low & low & Separate activity to plan proper architecture. Create structure documents, UML-diagrams, and design meetings with team to ensure everyone is on board. Document structure. & Periodic code reviews \\
+ \hline
+ \end{tabular}
+ \end{center}
+
+\begin{center}
+ \begin{tabular}{|p{3cm}|p{2cm}|p{2cm}|p{2cm}|p{2cm}|p{2cm}|}
+ \hline
+ \multicolumn{6}{|c|}{Implementation} \\
+ \hline
+ Risk for bugs & high & high & high & Test first, clean branch with only working code to ensure no broken code contaminates the working space. Internal code reviews. & Periodic code reviews, continous testing \\
+ \hline
+ Lack of proper documentation and comments, difficult to understand for other team-members & medium & low & low & Plan and create clear guidelines on documentation for produced code. Periodic internal code reviews. & Periodic code reviews \\
+ \hline
+ Lack of necessary skills & low & medium & low & Clear resource planning to ensure the best fit between resource and task. Team standup-meetings to quickly discover if there is a problem, so that resources may be redistributed. & Team check-ins \\
+ \hline
+ \end{tabular}
+ \end{center}
+
+ \begin{center}
+ \begin{tabular}{|p{3cm}|p{2cm}|p{2cm}|p{2cm}|p{2cm}|p{2cm}|}
+ \hline
+ \multicolumn{6}{|c|}{Maintenance} \\
+ \hline
+ Lack of proper documentation & medium & low & low & Clear guidelines on documentation. Internal code reviews regularly. & Periodic code reviews, continous testing \\
+ \hline
+ Incomplete user documents, too complex for businesses to maintain. & medium & medium & medium & Prototyping business side UI, get feedback on documentation, offer ongoing support. Already in planning stage plan for integration into existing WMS to minimize necessary effort from businesses to maintain. & Pre-release feedback \\
+ \hline
+ Political or legal changes that have a negative impact & low & low & low & Alternative ways of generating revenue if laws on gathering user data tightens for example & Monitor politics and news in relevant sector \\
+ \hline
+ \end{tabular}
+ \end{center}
+
+
 \section{Contribution statement}
 Thomas Dellwik: Part of group brainstorming and discussions when forming our business idea and MOM-test questions. Responsible for writing the Business model section in the first draft of the report. Spent around 5 hours total. \\
 \\
-Marina Fridh-Cardoso: Participated in discussions in regards to formulating and refining our business idea. Strengths and weaknesses, how to create value for both customers (retailers) and users. Active in planning and executing MOM-test. Together with team members filled out the Lean Canvas. Formalia and structure of report draft. Approx.  5 hours of work. \\
+Marina Fridh-Cardoso: Participated in discussions in regards to formulating and refining our business idea. Strengths and weaknesses, how to create value for both customers (retailers) and users. Active in planning and executing MOM-test. Together with team members filled out the Lean Canvas. Formalia and structure of report draft. Created prototypes. Responsible for risk assessment section. \\
 \\
 Nicolas Jaua Otero: Active part in discussions and planning of business idea and strategy. Contributed to MOM-test planning and execution. Wrote the Market analysis section of the report. About 5 hrs work.\\
 \\
