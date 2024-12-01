@@ -40,6 +40,10 @@ INPUT C:\Users\nilsr\AppData\Local\Programs\MiKTeX\tex\generic\ltxcmds\ltxcmds.s
 INPUT C:\Users\nilsr\AppData\Local\Programs\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
 INPUT C:\Users\nilsr\AppData\Local\Programs\MiKTeX\tex\latex\kvsetkeys\kvsetkeys.sty
 INPUT C:\Users\nilsr\AppData\Local\Programs\MiKTeX\tex\latex\kvsetkeys\kvsetkeys.sty
+INPUT C:\Users\nilsr\AppData\Local\Programs\MiKTeX\tex\latex\natbib\natbib.sty
+INPUT C:\Users\nilsr\AppData\Local\Programs\MiKTeX\tex\latex\natbib\natbib.sty
+INPUT C:\Users\nilsr\AppData\Local\Programs\MiKTeX\tex\latex\url\url.sty
+INPUT C:\Users\nilsr\AppData\Local\Programs\MiKTeX\tex\latex\url\url.sty
 INPUT C:\Users\nilsr\AppData\Local\Programs\MiKTeX\tex\latex\tex-gyre\t1qbk.fd
 INPUT C:\Users\nilsr\AppData\Local\Programs\MiKTeX\tex\latex\tex-gyre\t1qbk.fd
 INPUT C:\Users\nilsr\AppData\Local\Programs\MiKTeX\tex\latex\tex-gyre\t1qbk.fd
@@ -110,7 +114,13 @@ INPUT .\lean model canvas.png
 INPUT .\lean model canvas.png
 INPUT .\lean model canvas.png
 INPUT .\lean model canvas.png
+INPUT .\main.bbl
+INPUT .\main.bbl
+INPUT main.bbl
+INPUT C:\Users\nilsr\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ectt1000.tfm
 INPUT main.aux
+INPUT C:\Users\nilsr\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ectt1000.pk
+INPUT C:\Users\nilsr\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ectt1000.pk
 INPUT C:\Users\nilsr\AppData\Local\Programs\MiKTeX\fonts\type1\public\tex-gyre\qbkb.pfb
 INPUT C:\Users\nilsr\AppData\Local\Programs\MiKTeX\fonts\type1\public\tex-gyre\qbkb.pfb
 INPUT C:\Users\nilsr\AppData\Local\Programs\MiKTeX\fonts\type1\public\tex-gyre\qbkr.pfb

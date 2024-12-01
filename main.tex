@@ -2,9 +2,10 @@
 \usepackage{graphicx} % Required for inserting images
 \usepackage{subcaption}
 \usepackage{subfig}
-
 \usepackage[T1]{fontenc}
 \usepackage{tgbonum}
+\usepackage{natbib}
+\usepackage{url}
 
 \def\companyName{shmap}
 
@@ -43,9 +44,21 @@
 \end{titlepage}
 
 \section{Executive Summary}
-Our product provides a new and effective way for in-store shoppers to navigate smoothly through any storefront. A mobile application with a streamlined and effective indoor navigation system that guides users through stores, allowing large shopping lists to be completed in quicker, more comfortable ways for the user. 
+The retail shopping experience is at the heart of modern commerce, with over 80\% of sales in the largest European countries being done in-store.\cite{statista1}
 
-For customers, i.e large retail stores, we provide valuable data on user activity within the stores, allowing them to evaluate under/over-utilized areas of their locations while enabling effective advertisement of select products based on shopper data and interests. 
+However, navigating large storefronts effectively is often a challenging task, especially for larger shopping lists or unfamiliar store layouts.
+
+Providing solutions for effective, streamlined in-store shopping is a crucial task, not only for shopper satisfaction but also for increasing sales and efficiency for the store owner.
+
+Currently, the solutions for in-store navigations face several issues. Static maps do not provide real-time tracking and as such depend on the users ability to read maps, while existing digital navigation solutions are either store-specific or lacking in functionality.
+
+Additionally, retailers struggle to use detailed customer data to optimize store design or target ads appropriately, missed opportunities to improve customer experience and performance These gaps underscore the urgent need for new in-store and customer engagement strategies.
+
+To address this, our team presents a mobile application with a streamlined and effective indoor navigation system, enabling shoppers to effortlessly complete their shopping lists, regardless of its size or the shoppers familiarity of a specific store.
+
+For retailers, we offer crucially valuable insights into the behavior of their visitiors, allowing them to accurately and empirically indetify under- and overutilized areas of their stores, 
+while at the same time reducing the amount of man hours needed for retail workers assisting shoppers in navigating the store.
+
 
 Our team, containing experienced algorithm developers and with previous experience in the retail industry, are suited to create a product that understands both what stores and store-goers are wanting for in the current system.
 
@@ -89,7 +102,7 @@ a market position as a leader in the product space would be obtained.
 After obtaining a larger market share, a revenue stream by advertisements, 
 licensing fees and selling the user data would be lucrative.
 
-\begin{figure}[h]
+\begin{figure}[ht]
     \centering
     \includegraphics[width=1\textwidth]{lean model canvas.png}
     \caption{Lean model canvas describing \companyName's business model}
@@ -257,6 +270,7 @@ Nils Reberg: Took on a leading role in coming up with and refining the business 
  \hline
  \end{tabular}
  \end{center}
-
+ \bibliography{bibliography}
+ \bibliographystyle{unsrt}
 
 \end{document}
