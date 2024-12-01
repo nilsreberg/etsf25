@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1733083893.35199 "c:/Users/nilsr/Documents/AffarsProjektet/etsf25/main.tex" "main.pdf" "main" 1733083897.44011 0
+["pdflatex"] 1733083929.5357 "c:/Users/nilsr/Documents/AffarsProjektet/etsf25/main.tex" "main.pdf" "main" 1733083932.35708 0
   "C:/Users/nilsr/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1733083144 123019 4e6d54fe28a67ad1b512b0cc9d03c2e8 ""
   "C:/Users/nilsr/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1733080349 11986954 911f89ef1dadbe583a7c4adf3a58e83e ""
   "C:/Users/nilsr/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458473887 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
@@ -39,11 +39,11 @@
   "ShopList.png" 1733076494 262526 6daafb70b7123b2c926a9150d842a5a0 ""
   "ShopRoute.png" 1733076494 230350 758484c97705a7e5e02c179790da0bf7 ""
   "StoreHome.png" 1733076494 808065 3f17d8dafa7ea00e832244e6ac6a3778 ""
-  "c:/Users/nilsr/Documents/AffarsProjektet/etsf25/main.tex" 1733083891 18820 3621e6ad208e7715b08ed332ba44e1bd ""
+  "c:/Users/nilsr/Documents/AffarsProjektet/etsf25/main.tex" 1733083923 19664 e378b9a1e3475ee881b9979c7742add1 ""
   "lean model canvas.png" 1733076494 42166 c73b6b9f901ccc585a9311f2e6e9c841 ""
   "logo_gradient.png" 1733076494 129348 1bdfb3680ce0296db16c362e5bd75325 ""
-  "main.aux" 1733083896 1584 47e24d2da3ee4eb39d2704e0073d51cb "pdflatex"
-  "main.tex" 1733083891 18820 3621e6ad208e7715b08ed332ba44e1bd ""
+  "main.aux" 1733083931 1584 9188ac761cdc5182e8eefd56ee0f188d "pdflatex"
+  "main.tex" 1733083923 19664 e378b9a1e3475ee881b9979c7742add1 ""
   (generated)
   "main.aux"
   "main.log"
