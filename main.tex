@@ -1,5 +1,7 @@
 \documentclass[titlepage]{article}
 \usepackage{graphicx} % Required for inserting images
+\usepackage{subcaption}
+\usepackage{subfig}
 
 \usepackage[T1]{fontenc}
 \usepackage{tgbonum}
@@ -57,7 +59,44 @@ The main concern about competence missing from the team  is legal education and 
 \section{Business Model}
 The main customer segment of our product are retail and grocery stores, and the contingent of shoppers who appreciate assistance, 
 guidance or finding deals using cloud services. 
-Many customers of stores have difficulties in finding where items in aisles are.
+\subsection{MOM Test and Prototyping}
+Using the MOM test, our team assessed potential users experiences with in-store retail shopping. Subjects were asked the following questions:
+\begin{enumerate}
+    \item How would you describe your in-store shopping habits?
+    \item Do you regularly have issues navigating stores?
+    \item How do you typically address these issues?
+    \item Do you typically ask retail employees questions about item locations or current deals?
+    \item Are there certain types of stores you avoid?
+    \item What could persuade you to start shopping at these stores?
+    \item Is it important for you to save time while shopping?
+\end{enumerate}
+Our small-scale research found that a majority of the people we asked were interested in cutting down the time it takes for them to shop, especially in grocery stores. 
+
+Additionally, many expressed frustration in regularly having issues finding certain items. Frustration was also described in not reliably being able to ask in-store personnel questions, either due to social barriers or more commonly due to lack of available personnel. 
+
+These answers suggest that our company has a good product-market fit, which was further explored using prototyping.
+
+Prototyping was done using a general description of the product alongside mockup images, see Figure \ref{fig:mockups}.
+This prototyping provided further insights, as potential users were allowed to visualise the product and results were largely positive. Valuable feedback in requests for functionality and accessibility provided our team with structure for implementing a final product.
+
+\begin{figure}[h!]
+    \centering
+    \begin{subfigure}[b]{0.3\linewidth}
+        \includegraphics[width=\textwidth]{ShopList.png}
+        \caption{Mockup of shopping list functionality}
+      \end{subfigure}
+      \begin{subfigure}[b]{0.3\linewidth}
+        \includegraphics[width=\textwidth]{StoreHome.png}
+    \caption{Mockup of a storefront page}
+      \end{subfigure}
+    \begin{subfigure}[b]{0.3\linewidth}
+      \includegraphics[width=\textwidth]{ShopRoute.png}
+    \caption{Mockup of route navigation functionality}
+      \end{subfigure}
+    \caption{Three simple mockups}
+    \label{fig:mockups}
+\end{figure}
+
 Unlike current solutions, which give minimal or no information to the consumer on where to go for various items,
 our solution aims to instead give the consumer the ability to find items with a mobile solution,
 letting them obtain information of product positions without having to actively seek them out.
