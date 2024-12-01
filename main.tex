@@ -1,10 +1,8 @@
 \documentclass[titlepage]{article}
 \usepackage{graphicx} % Required for inserting images
 
-\title{Placeholder Project Name}
-\author{ETSF25 Group E1:\\Thomas Dellwik: thomas.dellwik00@gmail.com\\Marina Fridh-Cardoso: ma0448fr-s@student.lu.se\\Nicolas Jaua Otero: ni1407ja-s@student.lu.se\\Viktor Jernberg: vi6832je-s@student.lu.se\\Erik Nicander: er0811ni-s@student.lu.se\\Nils Reberg: ni7877re-s@student.lu.se\\
-}
-\date{November 2024}
+\usepackage[T1]{fontenc}
+\usepackage{tgbonum}
 
 \def\companyName{shmap}
 
@@ -14,7 +12,9 @@
     \begin{center}
         \vspace*{1.5cm}
 
-        \textbf{{\Huge \companyName}}
+        {\fontfamily{phv}\selectfont
+            {\Huge \companyName}
+        }
 
         \vspace{0.5cm}
             {\large Convenient, united frontend for connecting\\
@@ -23,7 +23,7 @@
         \vspace{1.25cm}
 
         \textbf{Project Group E1} \\
-        {\normalsize Viktor Jernberg (vi6832je-s@student.lu.se)\\Thomas Dellwik (thomas.dellwik00gmail.com)\\Nils Reberg (ni7877re-s@student.lu.se)\\Nicolas Jaua Otero (ni0000ot-s@student.lu.se)\\Marina Fridh-Cardoso (ma0448fr-s@student.lu.se)\\Erik Nicander (er0811ni-s@student.lu.se)}
+        {\normalsize Viktor Jernberg (vi6832je-s@student.lu.se)\\Thomas Dellwik (thomas.dellwik00gmail.com)\\Nils Reberg (ni7877re-s@student.lu.se)\\Nicolas Jaua Otero (ni1407ja-s@student.lu.se)\\Marina Fridh-Cardoso (ma0448fr-s@student.lu.se)\\Erik Nicander (er0811ni-s@student.lu.se)}
 
         \vspace{1.25cm}
 
@@ -93,10 +93,23 @@ For our initial market we would aim to partner with some individual stores in li
 
 \section{Risk assessment}
 
-\section{Contribution statement}
+A risk assessment of the entirety of this project concludes that significant risks stem from two sources: lack in interest from users and businesses, and risks associated with the inexperience of the team.
+
+A failure to attract enough attention from and involvement of users in our product would make it significantly more difficult to attract investors as well as attract advertising companies, therefore directly affecting our main stream of revenue. Lacking interest from businesses will also make it difficult expand the usability of our product, in turn making it less desirable for users.
+
+In order to mitigate these risks, MOM-tests and prototyping will help the team ensure that there is a market for the product, and that the problem-solution fit is good. Exclusive offers for partner businesses and users at the initial stages may help attract more of both categories. Prototyping at different stages in development, both for user side application and business side maintenance, to further solidify the solution is a good fit will help create a successful product. Offering help with setup and integration into existing warehouse management systems can help ease businesses who are concerned with the amount of work required, for set-up and maintenance alike. 
+
+Inexperience in the team give rise to risks involving poor or insufficient planning, and an unrealistic schedule and budget. The plan may lack in granularity in turn leading to inaccurate estimates. Some important tasks may be overlooked or forgotten, or things may be planned out in a suboptimal way. Resources may be wrongly distributed causing a delay in some part of the project while an other part is stalled waiting for the delayed part.
+
+By carefully applying well tested and known methods in creating a system anatomy and implementation plan, we hope to mitigate some of the risk. Methods like planning poker to estimate effort on different activities, and trying to give a little more slack than believed necessary some extra room for error should be created. Regular check-ins with the team to see the progress will allow potential problems to be discovered earlier so that action may be taken to minimize consequences. If possible a mentor or a review by someone with more experience in software related business could also be helpful when finalizing the implementation plan.
+
+A complete risk assessment can be found in the appendix \ref{risktable}.
+
+\section{Appendix}
+\subsection{Contribution statement}
 Thomas Dellwik: Part of group brainstorming and discussions when forming our business idea and MOM-test questions. Responsible for writing the Business model section in the first draft of the report. Spent around 5 hours total. \\
 \\
-Marina Fridh-Cardoso: Participated in discussions in regards to formulating and refining our business idea. Strengths and weaknesses, how to create value for both customers (retailers) and users. Active in planning and executing MOM-test. Together with team members filled out the Lean Canvas. Formalia and structure of report draft. Approx.  5 hours of work. \\
+Marina Fridh-Cardoso: Participated in discussions in regards to formulating and refining our business idea. Strengths and weaknesses, how to create value for both customers (retailers) and users. Active in planning and executing MOM-test. Together with team members filled out the Lean Canvas. Formalia and structure of report draft. Created prototypes. Responsible for risk assessment section. \\
 \\
 Nicolas Jaua Otero: Active part in discussions and planning of business idea and strategy. Contributed to MOM-test planning and execution. Wrote the Market analysis section of the report. About 5 hrs work.\\
 \\
@@ -105,6 +118,104 @@ Viktor Jernberg: Took part in brainstorming, refining and planning business idea
 Erik Nicander: Participated in group discussions and planning, attended seminars and group planning meetings. Took an active role in developing our business idea and in fleshing out the business strategy and filled in the Lean Canvas. Approximately 5 hours of work in total.\\
 \\
 Nils Reberg: Took on a leading role in coming up with and refining the business idea and strategy, and completing Lean Canvas.  Involved in planning and execution of MOM-test. Author of the Executive summary section. Total time about 5 hrs spent.\\
+
+\subsection{Risk Assessment Table} \label{risktable}
+
+\begin{center}
+\begin{tabular}{|p{3cm}|p{2cm}|p{2cm}|p{2cm}|p{2cm}|p{2cm}|}
+\hline
+ Specification & Probability & Consequences & Total Risk Estimation & Mitigation & Monitoring \\
+ \hline
+ \end{tabular}
+\end{center}
+
+\begin{center}
+\begin{tabular}{|p{3cm}|p{2cm}|p{2cm}|p{2cm}|p{2cm}|p{2cm}|}
+ \hline
+ \multicolumn{6}{|c|}{User Level} \\
+ \hline
+ Low involvement of users. Not interested in new tech/solution, do not consider the "problem" substantial enough to want a solution for it. Not interested in learning how to use it. & medium & high & medium & MOM-test. Prototyping to ensure simple, easy to use UI, good fit for the problem. Exclusive offers to attract customers. & Prototype to get feedback \\  
+ \hline
+ Low interest from businesses. Perceive gains as small compared to work required. Not willing to learn new technology. & high & high & high & Prioritize simple and quick maintenance on business-end. Integration into their WMS. Prototyping. On site support to set up. Offer training to staff. & Prototype to get feedback \\  
+ \hline
+ \end{tabular}
+\end{center}
+
+ \begin{center}
+ \begin{tabular}{|p{3cm}|p{2cm}|p{2cm}|p{2cm}|p{2cm}|p{2cm}|}
+ \hline
+ \multicolumn{6}{|c|}{Requirement gathering} \\
+ \hline
+ Requirements not deliverable: cannot get precise enough indoor location services for mapping & low & medium & low & Early testing. Adjust plan? Plan for alternative solution. & Research before starting implementation, alternative solution? \\
+ \hline
+ Misunderstanding or incomplete requirements. Misunderstood MOM-test results, and prospective users expect something other than what we have in mind. Missing important requirement for users to adopt our solution. Unspoken requirements: Do not want to create yet another account, do not wish to see a bunch of ads (which are part of our generating revenue). & low & medium & low & Prototyping, feedback including ads. & Prototype to get feedback \\
+ \hline
+ \end{tabular}
+ \end{center}
+
+ \begin{center}
+ \begin{tabular}{|p{3cm}|p{2cm}|p{2cm}|p{2cm}|p{2cm}|p{2cm}|}
+ \hline
+ \multicolumn{6}{|c|}{Planning} \\
+ \hline
+ Unrealistic schedule and budget, unrealistic goals. Inexperienced team leads to overestimation of our skills and an unrealistic timeplan. & medium & medium & medium & Leave extra room. Planning poker to estimate effort for different activities. If possible aqcuire a business-mentor to help and give feedback on how realistic our plan is. & Regular check-ins with timeplan \\
+ \hline
+ Poor planning. Not detailed enough/ insufficient granularity. Missed or overlooked steps. & medium & medium & medium & SPM-tools to try and develop a more detailed plan to minimize risk of missing something important. Planning poker: if large variation in estimated effort, or large effort for a given task, perhaps a sign it can (should) be broken down further? & Regular check-ins with timeplan \\
+ \hline
+ \end{tabular}
+ \end{center}
+
+
+
+\begin{center}
+ \begin{tabular}{|p{3cm}|p{2cm}|p{2cm}|p{2cm}|p{2cm}|p{2cm}|}
+ \hline
+ \multicolumn{6}{|c|}{Analysis} \\
+ \hline
+ Faulty cost-benefit analysis: planned development of a minor feature turns out to be much more expensive than initially expected & medium & low & low & Periodic revisions of the plan and re-prioritizing items. Using a fine granularity when planning to clarify what needs to get done. & Regular check-ins with timeplan \\
+ \hline
+ \end{tabular}
+ \end{center}
+
+ \begin{center}
+ \begin{tabular}{|p{3cm}|p{2cm}|p{2cm}|p{2cm}|p{2cm}|p{2cm}|}
+ \hline
+ \multicolumn{6}{|c|}{Design} \\
+ \hline
+ Lack of integrity in design elements, bad or difficult to use UI & low & low & low & Perform prototyping to get user feedback on UI & Prototype tp get feedback \\
+ \hline
+ Lack of proper architectural design and plan & low & low & low & Separate activity to plan proper architecture. Create structure documents, UML-diagrams, and design meetings with team to ensure everyone is on board. Document structure. & Periodic code reviews \\
+ \hline
+ \end{tabular}
+ \end{center}
+
+\begin{center}
+ \begin{tabular}{|p{3cm}|p{2cm}|p{2cm}|p{2cm}|p{2cm}|p{2cm}|}
+ \hline
+ \multicolumn{6}{|c|}{Implementation} \\
+ \hline
+ Risk for bugs & high & low & low & Test first, clean branch with only working code to ensure no broken code contaminates the working space. Internal code reviews. & Periodic code reviews, continous testing \\
+ \hline
+ Lack of proper documentation and comments, difficult to understand for other team-members & medium & low & low & Plan and create clear guidelines on documentation for produced code. Periodic internal code reviews. & Periodic code reviews \\
+ \hline
+ Lack of necessary skills & low & medium & low & Clear resource planning to ensure the best fit between resource and task. Team standup-meetings to quickly discover if there is a problem, so that resources may be redistributed. & Team check-ins \\
+ \hline
+ \end{tabular}
+ \end{center}
+
+ \begin{center}
+ \begin{tabular}{|p{3cm}|p{2cm}|p{2cm}|p{2cm}|p{2cm}|p{2cm}|}
+ \hline
+ \multicolumn{6}{|c|}{Maintenance} \\
+ \hline
+ Lack of proper documentation & medium & low & low & Clear guidelines on documentation. Internal code reviews regularly. & Periodic code reviews, continous testing \\
+ \hline
+ Too complex for businesses to maintain: too involved, too much work, too difficult for staff & medium & medium & medium & Prototyping business side UI, get feedback on documentation, offer ongoing support. Already in planning stage plan for integration into existing WMS to minimize necessary effort from businesses to maintain. & Pre-release feedback \\
+ \hline
+ Political or legal changes that have a negative impact & low & low & low & Alternative ways of generating revenue if laws on gathering user data tightens for example & Monitor politics and news in relevant sector \\
+ \hline
+ \end{tabular}
+ \end{center}
 
 
 \end{document}
