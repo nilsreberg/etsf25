@@ -1,0 +1,92 @@
+INSTRUCTIONS:
+- Skim read the assigned report
+- Consider the criteria & questions below
+- Write constructive assessment and feedback for each question, e.g. what is good, what is missing / hard to understand, what can be improved.
+
+OVERALL
+1. General impression of report: professional, organised, confidence inspiring etc?
+It is professional in its structure.
+The different aspects are clearly and well organised to understand the contents of the report.
+It is somewhat good at inspiring confidence, but may be too dependent of user input and active user engagement.
+
+
+2. Language: clarity, ease of understanding, e.g. what is the problem & the solution?
+The language used is of good quality and clearly signifies the important issues and what solutions the product provides.
+
+
+BUSINESS MODEL
+3. Consider the description of the business model. Does it describe the user/customer perspective? How is MOM test used to motivate the targeted problem?
+
+It describes the user perspective (students planning) as very important, 
+with most of the focus of the product being put on the problems the student face with respect to scheduling and reduced effort on their side.
+The MOM test is inserted as an insight into user experience of current, similar solutions.
+
+
+4. Consider the novelty of the business idea. Is the product/service new or are you aware of comparable solutions? 
+The software is not in itself new, as it aims to supplant or make easier scheduling systems already in place.
+Being a service that does what other things does better, that is okay.
+
+
+5. Consider the competitiveness of the product/service. How superior is the solution compared to other alternatives? How easy is it for others to copy the business model (and thereby further increase competition)?
+
+The initial version of the service would be easy to copy, as it would be very similar to other scheduling services such as online calendar and similar.
+With iterations, the service would have an improved user experience and be better than the minimal viable product.
+The information gained from users would be very important to actively use in development to differentiate the service from potential similar products.
+
+
+6. How will money be earned on the product/service? Is the revenue model realistic?
+
+The free version would depend on advertising, which depends on the public view of advertising and the advertisement industry.
+This revenue model would be realistic but require a large userbase to supply salaries. 
+If the service does not enter the wider market outside the early adopters at LTH, it would be insufficient for standard salary.
+
+
+7. How well does the business model fit the product/service?
+
+The business model fits the service well, with it not requiring money to use for a student userbase.
+
+
+8. Is it clear where venture capital will come from? Realistic?
+
+There is no plans for venture capital to invest in the service.
+
+
+9. Consider the team behind the business. How well is the competence and strengths of the team described? Are any vital competences missing (that ought to be recruited)? How well is the extent and type of contribution described for each team member (number of hours, type of activities and contributions)?
+
+The personal experience of the team is well suited the service, 
+however the missing UI/UX designer may make the period before they are recruited less competitive and reduce the relative interest in the service.
+
+
+10. What are the chances that this team will succeed?
+
+A medium chance, uncertain but has a chance of breakout success if it finds an early, enthusiastic userbase.
+
+
+MARKET ANALYSIS
+11. Is it clear which customers that are likely to buy the product/service?
+
+Yes, students (free plan) and institutions (paid plan) are clearly described as customers.
+Advertising companies are described as 
+
+
+12. What kind of competitors have been identified? Can you think of other and/or more relevant competitors?
+
+Current scheduling software, in LTH TimeEdit and calendars.
+Other competitors would be students remiding eachother, which is somewhat relevant but not easily 
+
+
+13. Consider the motivation of the product-market fit. What aspects need to be validated through prototyping? 
+
+User experience with the service. The amount of advertising and how annoying they may be without harming the product.
+
+
+14. Is the initially targeted market (early adopters) realistic?
+
+Yes, current univerity students are usually open to web-based applications, and the proximity of LTH students increase the chance of adoption.
+
+
+15. How trustworthy is the market channel (distribution, customer reach out)?
+
+Personal word of mouth is often very trustworthy, with web applications being easy to convince others of using.
+Social media is more difficult, as some may think of the application as bad in some way (insecure, collecting data) or
+uncertainty if the user privacy and data integrity is respected.
