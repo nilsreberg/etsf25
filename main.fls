@@ -44,6 +44,8 @@ INPUT C:\Users\nilsr\AppData\Local\Programs\MiKTeX\tex\latex\natbib\natbib.sty
 INPUT C:\Users\nilsr\AppData\Local\Programs\MiKTeX\tex\latex\natbib\natbib.sty
 INPUT C:\Users\nilsr\AppData\Local\Programs\MiKTeX\tex\latex\url\url.sty
 INPUT C:\Users\nilsr\AppData\Local\Programs\MiKTeX\tex\latex\url\url.sty
+INPUT C:\Users\nilsr\AppData\Local\Programs\MiKTeX\tex\latex\tools\longtable.sty
+INPUT C:\Users\nilsr\AppData\Local\Programs\MiKTeX\tex\latex\tools\longtable.sty
 INPUT C:\Users\nilsr\AppData\Local\Programs\MiKTeX\tex\latex\tex-gyre\t1qbk.fd
 INPUT C:\Users\nilsr\AppData\Local\Programs\MiKTeX\tex\latex\tex-gyre\t1qbk.fd
 INPUT C:\Users\nilsr\AppData\Local\Programs\MiKTeX\tex\latex\tex-gyre\t1qbk.fd
@@ -62,6 +64,8 @@ INPUT C:\Users\nilsr\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstop
 INPUT C:\Users\nilsr\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\nilsr\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\nilsr\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT C:\Users\nilsr\AppData\Local\Programs\MiKTeX\tex\latex\caption\ltcaption.sty
+INPUT C:\Users\nilsr\AppData\Local\Programs\MiKTeX\tex\latex\caption\ltcaption.sty
 INPUT C:\Users\nilsr\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\t1phv.fd
 INPUT C:\Users\nilsr\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\t1phv.fd
 INPUT C:\Users\nilsr\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\t1phv.fd
@@ -85,6 +89,18 @@ INPUT C:\Users\nilsr\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\base\8r.enc
 INPUT C:\Users\nilsr\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\tex-gyre\q-ec.enc
 INPUT C:\Users\nilsr\AppData\Local\Programs\MiKTeX\fonts\tfm\public\tex-gyre\ec-qbkb.tfm
 INPUT C:\Users\nilsr\AppData\Local\Programs\MiKTeX\fonts\tfm\public\tex-gyre\ec-qbkb.tfm
+INPUT C:\Users\nilsr\AppData\Local\Programs\MiKTeX\tex\latex\tex-gyre\ts1qbk.fd
+INPUT C:\Users\nilsr\AppData\Local\Programs\MiKTeX\tex\latex\tex-gyre\ts1qbk.fd
+INPUT C:\Users\nilsr\AppData\Local\Programs\MiKTeX\tex\latex\tex-gyre\ts1qbk.fd
+INPUT C:\Users\nilsr\AppData\Local\Programs\MiKTeX\fonts\tfm\public\tex-gyre\ts1-qbkr.tfm
+INPUT C:\Users\nilsr\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\tex-gyre\q-ts1.enc
+INPUT .\lean model canvas.png
+INPUT .\lean model canvas.png
+INPUT .\lean model canvas.png
+INPUT .\lean model canvas.png
+INPUT .\lean model canvas.png
+INPUT .\lean model canvas.png
+INPUT .\lean model canvas.png
 INPUT .\ShopList.png
 INPUT .\ShopList.png
 INPUT .\ShopList.png
@@ -107,13 +123,21 @@ INPUT .\ShopRoute.png
 INPUT .\ShopRoute.png
 INPUT .\ShopRoute.png
 INPUT .\ShopRoute.png
-INPUT .\lean model canvas.png
-INPUT .\lean model canvas.png
-INPUT .\lean model canvas.png
-INPUT .\lean model canvas.png
-INPUT .\lean model canvas.png
-INPUT .\lean model canvas.png
-INPUT .\lean model canvas.png
+INPUT .\SystemAnatomy.png
+INPUT .\SystemAnatomy.png
+INPUT .\SystemAnatomy.png
+INPUT .\SystemAnatomy.png
+INPUT .\SystemAnatomy.png
+INPUT .\SystemAnatomy.png
+INPUT .\SystemAnatomy.png
+INPUT .\implementation_plan.png
+INPUT .\implementation_plan.png
+INPUT .\implementation_plan.png
+INPUT .\implementation_plan.png
+INPUT .\implementation_plan.png
+INPUT .\implementation_plan.png
+INPUT .\implementation_plan.png
+INPUT C:\Users\nilsr\AppData\Local\Programs\MiKTeX\fonts\tfm\public\tex-gyre\ec-qbkb.tfm
 INPUT .\main.bbl
 INPUT .\main.bbl
 INPUT main.bbl
