@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex main"] 1733953909.37992 "main.aux" "main.bbl" "main" 1733953943.35481 0
+["bibtex main"] 1734281339.30187 "main.aux" "main.bbl" "main" 1734281439.14554 0
   "./bibliography.bib" 1733952671 516 5ed6fa297b5f5a6075c76e80ee982c68 ""
   "C:/Users/nilsr/AppData/Local/Programs/MiKTeX/bibtex/bst/bibtex/unsrt.bst" 1291864736 18030 1376b4b231b50c66211e47e42eda2875 ""
-  "main.aux" 1733953939 2886 143ad5dfaf23cfe058a722f7dee420fb "pdflatex"
+  "main.aux" 1734281437 2981 22498930968d09b07787aa30d9b229ff "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1733953934.8758 "c:/Users/nilsr/Documents/AffarsProjektet/etsf25/main.tex" "main.pdf" "main" 1733953943.35808 0
+["pdflatex"] 1734281435.26939 "c:/Users/nilsr/Documents/AffarsProjektet/etsf25/main.tex" "main.pdf" "main" 1734281439.14643 0
   "C:/Users/nilsr/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1733090342 123019 4e6d54fe28a67ad1b512b0cc9d03c2e8 ""
   "C:/Users/nilsr/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ectt1000.pk" 1733090408 20028 8f9230e0f1e8585471415ff65bfda9d1 ""
   "C:/Users/nilsr/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1733080349 11986954 911f89ef1dadbe583a7c4adf3a58e83e ""
@@ -57,13 +57,13 @@
   "ShopRoute.png" 1733076494 230350 758484c97705a7e5e02c179790da0bf7 ""
   "StoreHome.png" 1733076494 808065 3f17d8dafa7ea00e832244e6ac6a3778 ""
   "SystemAnatomy.png" 1733076276 140939 d50265a580a27fc069b3712d8de13ccf ""
-  "c:/Users/nilsr/Documents/AffarsProjektet/etsf25/main.tex" 1733953932 25129 c7ea09c151d257e6f79832ddb37f2dfa ""
+  "c:/Users/nilsr/Documents/AffarsProjektet/etsf25/main.tex" 1734281433 25376 7c9432a538ab7820a837ddcfeb68985d ""
   "implementation_plan.png" 1733926581 95957 7cd63981d8de836ecb082193bea2f1d6 ""
   "lean model canvas.png" 1733076494 42166 c73b6b9f901ccc585a9311f2e6e9c841 ""
   "logo_gradient.png" 1733076494 129348 1bdfb3680ce0296db16c362e5bd75325 ""
-  "main.aux" 1733953939 2886 143ad5dfaf23cfe058a722f7dee420fb "pdflatex"
-  "main.bbl" 1733953909 516 8d20373e2b4836e9650e67e7f48e3fa8 "bibtex main"
-  "main.tex" 1733953932 25129 c7ea09c151d257e6f79832ddb37f2dfa ""
+  "main.aux" 1734281437 2981 22498930968d09b07787aa30d9b229ff "pdflatex"
+  "main.bbl" 1734281340 516 8d20373e2b4836e9650e67e7f48e3fa8 "bibtex main"
+  "main.tex" 1734281433 25376 7c9432a538ab7820a837ddcfeb68985d ""
   (generated)
   "main.aux"
   "main.log"

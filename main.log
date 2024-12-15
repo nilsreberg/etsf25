@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.12.1)  11 DEC 2024 22:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.12.1)  15 DEC 2024 17:50
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -186,7 +186,7 @@ Overfull \hbox (4.5435pt too wide) in paragraph at lines 58--59
 [2]
 
 [3]
-LaTeX Font Info:    Trying to load font information for TS1+qbk on input line 136.
+LaTeX Font Info:    Trying to load font information for TS1+qbk on input line 137.
  (C:\Users\nilsr\AppData\Local\Programs\MiKTeX\tex/latex/tex-gyre\ts1qbk.fd
 File: ts1qbk.fd 2009/09/25 v1.2 font definition file for TS1/qbk
 )
@@ -195,7 +195,7 @@ File: ts1qbk.fd 2009/09/25 v1.2 font definition file for TS1/qbk
 <lean model canvas.png, id=24, 1038.88126pt x 616.3025pt>
 File: lean model canvas.png Graphic file (type png)
 <use lean model canvas.png>
-Package pdftex.def Info: lean model canvas.png  used on input line 158.
+Package pdftex.def Info: lean model canvas.png  used on input line 159.
 (pdftex.def)             Requested size: 345.0pt x 204.6594pt.
 
 
@@ -203,17 +203,17 @@ Package pdftex.def Info: lean model canvas.png  used on input line 158.
 <ShopList.png, id=28, 356.33125pt x 560.0925pt>
 File: ShopList.png Graphic file (type png)
 <use ShopList.png>
-Package pdftex.def Info: ShopList.png  used on input line 185.
+Package pdftex.def Info: ShopList.png  used on input line 186.
 (pdftex.def)             Requested size: 103.50105pt x 162.67905pt.
 <StoreHome.png, id=29, 357.335pt x 561.09625pt>
 File: StoreHome.png Graphic file (type png)
 <use StoreHome.png>
-Package pdftex.def Info: StoreHome.png  used on input line 189.
+Package pdftex.def Info: StoreHome.png  used on input line 190.
 (pdftex.def)             Requested size: 103.50105pt x 162.51682pt.
 <ShopRoute.png, id=30, 358.33875pt x 561.09625pt>
 File: ShopRoute.png Graphic file (type png)
 <use ShopRoute.png>
-Package pdftex.def Info: ShopRoute.png  used on input line 193.
+Package pdftex.def Info: ShopRoute.png  used on input line 194.
 (pdftex.def)             Requested size: 103.50105pt x 162.06305pt.
 
 
@@ -225,7 +225,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <SystemAnatomy.png, id=35, 507.8975pt x 615.29875pt>
 File: SystemAnatomy.png Graphic file (type png)
 <use SystemAnatomy.png>
-Package pdftex.def Info: SystemAnatomy.png  used on input line 206.
+Package pdftex.def Info: SystemAnatomy.png  used on input line 212.
 (pdftex.def)             Requested size: 172.5pt x 208.97346pt.
 
 
@@ -234,7 +234,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 <implementation_plan.png, id=36, 831.70724pt x 415.5525pt>
 File: implementation_plan.png Graphic file (type png)
 <use implementation_plan.png>
-Package pdftex.def Info: implementation_plan.png  used on input line 213.
+Package pdftex.def Info: implementation_plan.png  used on input line 219.
 (pdftex.def)             Requested size: 241.49895pt x 120.65932pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -242,138 +242,60 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 [7 <./ShopList.png> <./StoreHome.png> <./ShopRoute.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 242--242
+
+[8 <./SystemAnatomy.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 248--248
 []|\T1/qbk/m/n/8 Risk
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 246--246
+Underfull \hbox (badness 10000) in paragraph at lines 252--252
 []|\T1/qbk/m/n/8 Low in-volve-ment of
  []
 
 
-Underfull \hbox (badness 1675) in paragraph at lines 246--246
+Underfull \hbox (badness 1675) in paragraph at lines 252--252
 \T1/qbk/m/n/8 do not con-sider the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 246--246
+Underfull \hbox (badness 10000) in paragraph at lines 252--252
 \T1/qbk/m/n/8 enough to want a
  []
 
 
-Underfull \hbox (badness 2173) in paragraph at lines 246--246
+Underfull \hbox (badness 2173) in paragraph at lines 252--252
 \T1/qbk/m/n/8 clu-sive of-fers to at-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 246--247
+Underfull \hbox (badness 10000) in paragraph at lines 252--253
 []|\T1/qbk/m/n/8 Prototype
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 248--248
+Underfull \hbox (badness 10000) in paragraph at lines 254--254
 []|\T1/qbk/m/n/8 Low in-ter-est from
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 248--248
+Underfull \hbox (badness 10000) in paragraph at lines 254--254
 \T1/qbk/m/n/8 busi-nesses. Per-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 248--248
+Underfull \hbox (badness 10000) in paragraph at lines 254--254
 \T1/qbk/m/n/8 quick main-te-nance
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 248--248
+Underfull \hbox (badness 10000) in paragraph at lines 254--254
 \T1/qbk/m/n/8 on business-end.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 248--248
+Underfull \hbox (badness 10000) in paragraph at lines 254--254
 \T1/qbk/m/n/8 WMS. Pro-to-typ-ing.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 248--249
-[]|\T1/qbk/m/n/8 Prototype
- []
-
-
-Overfull \hbox (2.78487pt too wide) in paragraph at lines 252--252
-[]|\T1/qbk/m/n/8 Requirements
- []
-
-
-Underfull \hbox (badness 2735) in paragraph at lines 252--252
-\T1/qbk/m/n/8 lo-ca-tion ser-vices for
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 252--253
-[]|\T1/qbk/m/n/8 Research
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 252--253
-\T1/qbk/m/n/8 be-fore
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 252--253
-\T1/qbk/m/n/8 start-ing
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 252--253
-\T1/qbk/m/n/8 im-ple-men-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 252--253
-\T1/qbk/m/n/8 ta-tion,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 252--253
-\T1/qbk/m/n/8 al-ter-na-tive
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 254--254
-[]|\T1/qbk/m/n/8 Misunderstood or
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 254--254
-\T1/qbk/m/n/8 in-com-plete re-quire-
- []
-
-
-Underfull \hbox (badness 6364) in paragraph at lines 254--254
-\T1/qbk/m/n/8 ments. Mis-un-der-
- []
-
-
-Underfull \hbox (badness 6016) in paragraph at lines 254--254
-\T1/qbk/m/n/8 stood MOM-test re-
- []
-
-
-Underfull \hbox (badness 6608) in paragraph at lines 254--254
-\T1/qbk/m/n/8 users ex-pect some-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 254--254
-\T1/qbk/m/n/8 we have in mind.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 254--254
-\T1/qbk/m/n/8 Miss-ing im-por-tant
  []
 
 
@@ -382,487 +304,567 @@ Underfull \hbox (badness 10000) in paragraph at lines 254--255
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 258--258
-[]|\T1/qbk/m/n/8 Unrealistic sched-
+Overfull \hbox (2.78487pt too wide) in paragraph at lines 258--258
+[]|\T1/qbk/m/n/8 Requirements
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 258--258
-\T1/qbk/m/n/8 ule and bud-get,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 258--258
-[]|\T1/qbk/m/n/8 Leave ex-tra room.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 258--258
-\T1/qbk/m/n/8 Plan-ning poker to
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 258--258
-\T1/qbk/m/n/8 es-ti-mate ef-fort for
+Underfull \hbox (badness 2735) in paragraph at lines 258--258
+\T1/qbk/m/n/8 lo-ca-tion ser-vices for
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 258--259
-[]|\T1/qbk/m/n/8 Regular
+[]|\T1/qbk/m/n/8 Research
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 258--259
-\T1/qbk/m/n/8 check-ins
+\T1/qbk/m/n/8 be-fore
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 258--259
-\T1/qbk/m/n/8 with time
+\T1/qbk/m/n/8 start-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 258--259
+\T1/qbk/m/n/8 im-ple-men-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 258--259
+\T1/qbk/m/n/8 ta-tion,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 258--259
+\T1/qbk/m/n/8 al-ter-na-tive
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 260--260
-[]|\T1/qbk/m/n/8 Insufficient gran-u-
+[]|\T1/qbk/m/n/8 Misunderstood or
  []
 
 
-Underfull \hbox (badness 3428) in paragraph at lines 260--260
-\T1/qbk/m/n/8 lar-ity in time plan.
+Underfull \hbox (badness 10000) in paragraph at lines 260--260
+\T1/qbk/m/n/8 in-com-plete re-quire-
  []
 
 
-Underfull \hbox (badness 3049) in paragraph at lines 260--260
-\T1/qbk/m/n/8 de-velop a more de-
+Underfull \hbox (badness 6364) in paragraph at lines 260--260
+\T1/qbk/m/n/8 ments. Mis-un-der-
  []
 
 
-Underfull \hbox (badness 3724) in paragraph at lines 260--260
-\T1/qbk/m/n/8 tailed plan to min-
+Underfull \hbox (badness 6016) in paragraph at lines 260--260
+\T1/qbk/m/n/8 stood MOM-test re-
  []
 
 
-Underfull \hbox (badness 4429) in paragraph at lines 260--260
-\T1/qbk/m/n/8 i-mize risk of miss-
+Underfull \hbox (badness 6608) in paragraph at lines 260--260
+\T1/qbk/m/n/8 users ex-pect some-
  []
 
 
-Underfull \hbox (badness 2635) in paragraph at lines 260--260
-\T1/qbk/m/n/8 if large vari-a-tion in
+Underfull \hbox (badness 10000) in paragraph at lines 260--260
+\T1/qbk/m/n/8 we have in mind.
  []
 
 
-Underfull \hbox (badness 5260) in paragraph at lines 260--260
-\T1/qbk/m/n/8 es-ti-mated ef-fort, or
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 260--261
-[]|\T1/qbk/m/n/8 Regular
+Underfull \hbox (badness 10000) in paragraph at lines 260--260
+\T1/qbk/m/n/8 Miss-ing im-por-tant
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 260--261
-\T1/qbk/m/n/8 check-ins
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 260--261
-\T1/qbk/m/n/8 with time
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 264--264
-[]|\T1/qbk/m/n/8 Faulty cost-benefit
- []
-
-
-Underfull \hbox (badness 1014) in paragraph at lines 264--264
-\T1/qbk/m/n/8 fea-ture turns out to
- []
-
-
-Underfull \hbox (badness 5756) in paragraph at lines 264--264
-\T1/qbk/m/n/8 be much more ex-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 264--264
-[]|\T1/qbk/m/n/8 Periodic re-vi-sions
- []
-
-
-Underfull \hbox (badness 1430) in paragraph at lines 264--264
-\T1/qbk/m/n/8 of the plan and re-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 264--264
-\T1/qbk/m/n/8 prioritizing items.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 264--265
-[]|\T1/qbk/m/n/8 Regular
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 264--265
-\T1/qbk/m/n/8 check-ins
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 264--265
-\T1/qbk/m/n/8 with time
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
-[]|\T1/qbk/m/n/8 Perform pro-to-typ-ing
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 268--269
 []|\T1/qbk/m/n/8 Prototype
  []
 
 
-Underfull \hbox (badness 5533) in paragraph at lines 270--270
+Underfull \hbox (badness 10000) in paragraph at lines 264--264
+[]|\T1/qbk/m/n/8 Unrealistic sched-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 264--264
+\T1/qbk/m/n/8 ule and bud-get,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 264--264
+[]|\T1/qbk/m/n/8 Leave ex-tra room.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 264--264
+\T1/qbk/m/n/8 Plan-ning poker to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 264--264
+\T1/qbk/m/n/8 es-ti-mate ef-fort for
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 264--265
+[]|\T1/qbk/m/n/8 Regular
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 264--265
+\T1/qbk/m/n/8 check-ins
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 264--265
+\T1/qbk/m/n/8 with time
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--266
+[]|\T1/qbk/m/n/8 Insufficient gran-u-
+ []
+
+
+Underfull \hbox (badness 3428) in paragraph at lines 266--266
+\T1/qbk/m/n/8 lar-ity in time plan.
+ []
+
+
+Underfull \hbox (badness 3049) in paragraph at lines 266--266
+\T1/qbk/m/n/8 de-velop a more de-
+ []
+
+
+Underfull \hbox (badness 3724) in paragraph at lines 266--266
+\T1/qbk/m/n/8 tailed plan to min-
+ []
+
+
+Underfull \hbox (badness 4429) in paragraph at lines 266--266
+\T1/qbk/m/n/8 i-mize risk of miss-
+ []
+
+
+Underfull \hbox (badness 2635) in paragraph at lines 266--266
+\T1/qbk/m/n/8 if large vari-a-tion in
+ []
+
+
+Underfull \hbox (badness 5260) in paragraph at lines 266--266
+\T1/qbk/m/n/8 es-ti-mated ef-fort, or
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--267
+[]|\T1/qbk/m/n/8 Regular
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--267
+\T1/qbk/m/n/8 check-ins
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--267
+\T1/qbk/m/n/8 with time
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 270--270
+[]|\T1/qbk/m/n/8 Faulty cost-benefit
+ []
+
+
+Underfull \hbox (badness 1014) in paragraph at lines 270--270
+\T1/qbk/m/n/8 fea-ture turns out to
+ []
+
+
+Underfull \hbox (badness 5756) in paragraph at lines 270--270
+\T1/qbk/m/n/8 be much more ex-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 270--270
+[]|\T1/qbk/m/n/8 Periodic re-vi-sions
+ []
+
+
+Underfull \hbox (badness 1430) in paragraph at lines 270--270
+\T1/qbk/m/n/8 of the plan and re-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 270--270
+\T1/qbk/m/n/8 prioritizing items.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 270--271
+[]|\T1/qbk/m/n/8 Regular
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 270--271
+\T1/qbk/m/n/8 check-ins
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 270--271
+\T1/qbk/m/n/8 with time
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 274--274
+[]|\T1/qbk/m/n/8 Perform pro-to-typ-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 274--275
+[]|\T1/qbk/m/n/8 Prototype
+ []
+
+
+Underfull \hbox (badness 5533) in paragraph at lines 276--276
 \T1/qbk/m/n/8 tec-tural de-sign and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 270--270
+Underfull \hbox (badness 10000) in paragraph at lines 276--276
 []|\T1/qbk/m/n/8 Separate ac-tiv-ity
  []
 
 
-Underfull \hbox (badness 8113) in paragraph at lines 270--270
+Underfull \hbox (badness 8113) in paragraph at lines 276--276
 \T1/qbk/m/n/8 to plan proper ar-
  []
 
 
-Underfull \hbox (badness 5878) in paragraph at lines 270--270
+Underfull \hbox (badness 5878) in paragraph at lines 276--276
 \T1/qbk/m/n/8 chi-tec-ture. Cre-ate
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 270--270
+Underfull \hbox (badness 10000) in paragraph at lines 276--276
 \T1/qbk/m/n/8 UML-diagrams, and
  []
 
 
-Underfull \hbox (badness 3872) in paragraph at lines 270--270
+Underfull \hbox (badness 3872) in paragraph at lines 276--276
 \T1/qbk/m/n/8 team to en-sure ev-
  []
 
 
-Underfull \hbox (badness 1867) in paragraph at lines 270--270
+Underfull \hbox (badness 1867) in paragraph at lines 276--276
 \T1/qbk/m/n/8 ery-one is on board.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 270--271
+Underfull \hbox (badness 10000) in paragraph at lines 276--277
 []|\T1/qbk/m/n/8 Periodic
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 270--271
+Underfull \hbox (badness 10000) in paragraph at lines 276--277
 \T1/qbk/m/n/8 code re-
  []
 
 
-Overfull \hbox (10.30486pt too wide) in paragraph at lines 274--274
+Overfull \hbox (10.30486pt too wide) in paragraph at lines 280--280
 []|\T1/qbk/m/n/8 Implementation| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 274--274
+Underfull \hbox (badness 10000) in paragraph at lines 280--280
 []|\T1/qbk/m/n/8 Test first, clean
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 274--274
+Underfull \hbox (badness 10000) in paragraph at lines 280--280
 \T1/qbk/m/n/8 branch with only
  []
 
 
-Underfull \hbox (badness 1231) in paragraph at lines 274--274
+Underfull \hbox (badness 1231) in paragraph at lines 280--280
 \T1/qbk/m/n/8 work-ing code to en-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 274--274
+Underfull \hbox (badness 10000) in paragraph at lines 280--280
 \T1/qbk/m/n/8 con-tam-i-nates the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 274--275
+Underfull \hbox (badness 10000) in paragraph at lines 280--281
 []|\T1/qbk/m/n/8 Periodic
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 274--275
+Underfull \hbox (badness 10000) in paragraph at lines 280--281
 \T1/qbk/m/n/8 code re-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 274--275
+Underfull \hbox (badness 10000) in paragraph at lines 280--281
 \T1/qbk/m/n/8 views,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 274--275
+Underfull \hbox (badness 10000) in paragraph at lines 280--281
 \T1/qbk/m/n/8 con-tin-u-
  []
 
 
-Underfull \hbox (badness 1675) in paragraph at lines 276--276
+Underfull \hbox (badness 1675) in paragraph at lines 282--282
 []|\T1/qbk/m/n/8 Lack of proper doc-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 276--276
+Underfull \hbox (badness 10000) in paragraph at lines 282--282
 \T1/qbk/m/n/8 u-men-ta-tion and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 276--276
+Underfull \hbox (badness 10000) in paragraph at lines 282--282
 []|\T1/qbk/m/n/8 Plan and cre-ate
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 276--276
+Underfull \hbox (badness 10000) in paragraph at lines 282--282
 \T1/qbk/m/n/8 clear guide-lines on
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 276--276
+Underfull \hbox (badness 10000) in paragraph at lines 282--282
 \T1/qbk/m/n/8 doc-u-men-ta-tion for
  []
 
 
-Underfull \hbox (badness 5008) in paragraph at lines 276--276
+Underfull \hbox (badness 5008) in paragraph at lines 282--282
 \T1/qbk/m/n/8 ri-odic in-ter-nal code
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 276--277
+Underfull \hbox (badness 10000) in paragraph at lines 282--283
 []|\T1/qbk/m/n/8 Periodic
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 276--277
+Underfull \hbox (badness 10000) in paragraph at lines 282--283
 \T1/qbk/m/n/8 code re-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 278--278
+Underfull \hbox (badness 10000) in paragraph at lines 284--284
 []|\T1/qbk/m/n/8 Lack of nec-es-sary
  []
 
 
-Underfull \hbox (badness 1043) in paragraph at lines 278--278
+Underfull \hbox (badness 1043) in paragraph at lines 284--284
 []|\T1/qbk/m/n/8 Clear re-source plan-
  []
 
 
-Underfull \hbox (badness 4467) in paragraph at lines 278--278
+Underfull \hbox (badness 4467) in paragraph at lines 284--284
 \T1/qbk/m/n/8 ning to en-sure the
  []
 
 
-Underfull \hbox (badness 2343) in paragraph at lines 278--278
+Underfull \hbox (badness 2343) in paragraph at lines 284--284
 \T1/qbk/m/n/8 best fit be-tween re-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 278--278
+Underfull \hbox (badness 10000) in paragraph at lines 284--284
 \T1/qbk/m/n/8 source and task.
  []
 
 
-Underfull \hbox (badness 2529) in paragraph at lines 278--278
+Underfull \hbox (badness 2529) in paragraph at lines 284--284
 \T1/qbk/m/n/8 ings to quickly dis-
  []
 
 
-Underfull \hbox (badness 4686) in paragraph at lines 278--278
+Underfull \hbox (badness 4686) in paragraph at lines 284--284
 \T1/qbk/m/n/8 cover if there is a
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 278--278
+Underfull \hbox (badness 10000) in paragraph at lines 284--284
 \T1/qbk/m/n/8 prob-lem, so that
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 278--278
+Underfull \hbox (badness 10000) in paragraph at lines 284--284
 \T1/qbk/m/n/8 re-sources may be
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 278--279
+Underfull \hbox (badness 10000) in paragraph at lines 284--285
 []|\T1/qbk/m/n/8 Team
  []
 
 
-Underfull \hbox (badness 6236) in paragraph at lines 282--282
+Underfull \hbox (badness 6236) in paragraph at lines 288--288
 []|\T1/qbk/m/n/8 Clear guide-lines on
  []
 
 
-Underfull \hbox (badness 1365) in paragraph at lines 282--282
+Underfull \hbox (badness 1365) in paragraph at lines 288--288
 \T1/qbk/m/n/8 doc-u-men-ta-tion. In-
  []
 
 
-Underfull \hbox (badness 7238) in paragraph at lines 282--282
+Underfull \hbox (badness 7238) in paragraph at lines 288--288
 \T1/qbk/m/n/8 ter-nal code re-views
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 282--283
+Underfull \hbox (badness 10000) in paragraph at lines 288--289
 []|\T1/qbk/m/n/8 Periodic
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 282--283
+Underfull \hbox (badness 10000) in paragraph at lines 288--289
 \T1/qbk/m/n/8 code re-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 282--283
+Underfull \hbox (badness 10000) in paragraph at lines 288--289
 \T1/qbk/m/n/8 views,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 282--283
+Underfull \hbox (badness 10000) in paragraph at lines 288--289
 \T1/qbk/m/n/8 con-tin-u-
  []
 
 
-Underfull \hbox (badness 4108) in paragraph at lines 284--284
+Underfull \hbox (badness 4108) in paragraph at lines 290--290
 \T1/qbk/m/n/8 nesses to main-tain:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 284--284
+Underfull \hbox (badness 10000) in paragraph at lines 290--290
 \T1/qbk/m/n/8 too in-volved, too
  []
 
 
-Underfull \hbox (badness 2443) in paragraph at lines 284--284
+Underfull \hbox (badness 2443) in paragraph at lines 290--290
 []|\T1/qbk/m/n/8 Prototyping busi-ness
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 284--284
+Underfull \hbox (badness 10000) in paragraph at lines 290--290
 \T1/qbk/m/n/8 on doc-u-men-ta-tion,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 284--284
+Underfull \hbox (badness 10000) in paragraph at lines 290--290
 \T1/qbk/m/n/8 of-fer on-go-ing sup-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 284--284
+Underfull \hbox (badness 10000) in paragraph at lines 290--290
 \T1/qbk/m/n/8 port. Al-ready in
  []
 
 
-Underfull \hbox (badness 3323) in paragraph at lines 284--284
+Underfull \hbox (badness 3323) in paragraph at lines 290--290
 \T1/qbk/m/n/8 plan-ning stage plan
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 284--284
+Underfull \hbox (badness 10000) in paragraph at lines 290--290
 \T1/qbk/m/n/8 for in-te-gra-tion into
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 284--284
+Underfull \hbox (badness 10000) in paragraph at lines 290--290
 \T1/qbk/m/n/8 from busi-nesses to
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 284--285
+Underfull \hbox (badness 10000) in paragraph at lines 290--291
 []|\T1/qbk/m/n/8 Pre-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 284--285
+Underfull \hbox (badness 10000) in paragraph at lines 290--291
 \T1/qbk/m/n/8 release
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 286--286
+Underfull \hbox (badness 10000) in paragraph at lines 292--292
 []|\T1/qbk/m/n/8 Political or le-gal
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 286--286
+Underfull \hbox (badness 10000) in paragraph at lines 292--292
 []|\T1/qbk/m/n/8 Alternative ways of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 286--286
+Underfull \hbox (badness 10000) in paragraph at lines 292--292
 \T1/qbk/m/n/8 gen-er-at-ing rev-enue
  []
 
 
-Underfull \hbox (badness 1122) in paragraph at lines 286--286
+Underfull \hbox (badness 1122) in paragraph at lines 292--292
 \T1/qbk/m/n/8 if laws on gath-er-ing
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 286--287
+Underfull \hbox (badness 10000) in paragraph at lines 292--293
 []|\T1/qbk/m/n/8 Monitor
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 286--287
+Underfull \hbox (badness 10000) in paragraph at lines 292--293
 \T1/qbk/m/n/8 pol-i-tics
  []
 
 
-Underfull \hbox (badness 8000) in paragraph at lines 286--287
+Underfull \hbox (badness 8000) in paragraph at lines 292--293
 \T1/qbk/m/n/8 and news
  []
 
 
-Overfull \hbox (13.7539pt too wide) in alignment at lines 237--290
+Overfull \hbox (13.7539pt too wide) in alignment at lines 243--296
  [] [] [] [] [] 
  []
 
-[8 <./SystemAnatomy.png>] [9] [10]
-Underfull \hbox (badness 10000) in paragraph at lines 296--307
+[9 <./implementation_plan.png>] [10]
+Underfull \hbox (badness 10000) in paragraph at lines 302--313
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 296--307
+Underfull \hbox (badness 10000) in paragraph at lines 302--313
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 296--307
+Underfull \hbox (badness 10000) in paragraph at lines 302--313
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 296--307
+Underfull \hbox (badness 10000) in paragraph at lines 302--313
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 296--307
+Underfull \hbox (badness 10000) in paragraph at lines 302--313
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 296--307
+Underfull \hbox (badness 10000) in paragraph at lines 302--313
 
  []
 
@@ -895,7 +897,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 11--17
 
 
 
-[12 <./implementation_plan.png>])
+[12])
 
 [13] (main.aux)
  ***********
@@ -906,13 +908,13 @@ L3 programming layer <2024-11-02>
 Here is how much of TeX's memory you used:
  4290 strings out of 473681
  73271 string characters out of 5719195
- 498274 words of memory out of 5000000
+ 496273 words of memory out of 5000000
  27351 multiletter control sequences out of 15000+600000
  588955 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  67i,8n,77p,751b,486s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\nilsr\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1000.pk><C:/Users/nilsr/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qbkb.pfb><C:/Users/nilsr/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qbkr.pfb><C:/Users/nilsr/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on main.pdf (14 pages, 1634469 bytes).
+Output written on main.pdf (14 pages, 1634552 bytes).
 PDF statistics:
  118 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
