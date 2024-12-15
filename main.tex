@@ -21,14 +21,13 @@
     \begin{flushleft}
         {\fontfamily{phv}\selectfont
             {\Huge \companyName}
-        }
-
-        \vspace{0.5cm}
+        
+        \vspace{0.3cm}
             
         {\large A convenient, united frontend for connecting\\
         stores, brands and customers}
             
-        \vspace{1.25cm}
+        \vspace{1.35cm}
             
         \textbf{Project Group E1}
             
@@ -43,54 +42,49 @@
             
         \vspace{2.5cm}
             
-        \hfill\includegraphics[width=0.55\textwidth]{logo_gradient.png}
+        \hfill\includegraphics[width=0.5\textwidth]{logo_gradient.png}
         
-        \vspace{1.5cm}
+        \vspace{2.0cm}
 
         {\large Lund, Sweden}
     
         \vspace{0.2cm}
             
-        {\large 2024}
+        {\large 2024}}
     \end{flushleft}
 \end{center}
 \end{titlepage}
 
 \section{Executive Summary}
 
-The retail shopping experience is at the heart of modern commerce, with over 80\% of sales in the largest European countries being done in-store.\cite{statista1}
-
+The retail shopping experience is at the heart of modern commerce, with over 80\% of sales in the largest European countries being done in-store \cite{statista1}.
 However, navigating large storefronts effectively is often a challenging task, especially for larger shopping lists or unfamiliar store layouts.
 
 Providing solutions for effective, streamlined in-store shopping is a crucial task, not only for shopper satisfaction but also for increasing sales and efficiency for the store owner.
+The current solutions for in-store navigations face several issues. Static maps do not provide real-time tracking and as such depend on the users ability to read maps, while existing digital navigation solutions are either store-specific or lacking in functionality.
+Additionally, retailers struggle to use detailed customer data to optimize store design or for targeting ads appropriately, missed opportunities to improve customer experience and performance. These gaps underscore what we have identified as a need for new in-store and customer engagement strategies.
 
-Currently, the solutions for in-store navigations face several issues. Static maps do not provide real-time tracking and as such depend on the users ability to read maps, while existing digital navigation solutions are either store-specific or lacking in functionality.
-
-Additionally, retailers struggle to use detailed customer data to optimize store design or target ads appropriately, missed opportunities to improve customer experience and performance These gaps underscore the urgent need for new in-store and customer engagement strategies.
-
-To address this, our team presents a mobile application with a streamlined and effective indoor navigation system, enabling shoppers to effortlessly complete their shopping lists, regardless of its size or the shoppers familiarity of a specific store.
-
+To address this, our team presents a mobile application with a streamlined and effective indoor navigation system, enabling shoppers to effortlessly complete their shopping lists, regardless of its size, or the shoppers familiarity of a specific store.
 For retailers, we offer crucially valuable insights into the behavior of their visitiors, allowing them to accurately and empirically indetify under- and overutilized areas of their stores, 
-while at the same time reducing the amount of man hours needed for retail workers assisting shoppers in navigating the store.
+while at the same time reducing the amount of man hours needed for retail workers assisting shoppers in navigating the store, or locating products.
 
-
-Our team, containing experienced algorithm developers and with previous experience in the retail industry, are suited to create a product that understands both what stores and store-goers are wanting for in the current system.
+Our team, containing experienced algorithm developers and with previous experience in the retail industry, are suited to create a product that understands both what stores, and store-goers are wanting for in the current system.
 
 \section{Management team}
-Our team consists of six computer science students who attend Lund University. We are currently in our third year of our studies and have learned a great deal about software and programming. Even though we study together, the members of the team have varying experiences that are relevant for this project.
+
+Our team consists of six computer science and engineering students who attend Lund University. We are currently in our third year of our studies, and have learned a great deal about software and programming. Even though we study together, the members of the team have varying experiences that are relevant for this project.
 
 The members are: Thomas Dellwik, Marina Fridh-Cardoso, Nicolas Jaua Otero, Viktor Jernberg, Erik Nicander and Nils Reberg. The different relevant experiences that the members have will help with early development and serves as a great base for us to get started. For example: Nicolas has previously worked with startups and has designed apps, Erik is great at design concepts and has done graphic design, and Viktor has worked a management role at a grocery store which is relevant because grocery stores are the target customer.
 
 The main concern about competence missing from the team  is legal education and possibly leadership experience. If we could have a person with legal knowledge in our team, our team would essentially be complete as a startup.
 
 \section{Business Model}
-The business model for schmap was developed through internal brainstorming and validated through testing with potential users. 
+
+The business model for shmap was developed through internal brainstorming and validated through testing with potential users. 
 This iterative approach involved refining ideas based on the MOM Test and prototyping feedback to create a scalable and user-centered solution.
 
-
-
-
 \subsection{Initial Workshopping}
+
 In order for a product proposal to gain useful insights from both the MOM test and from prototyping, an initial sketch is necessary. 
 
 Therefore, our team sat down in two sessions totaling three hours to formulate the overall idea of our product and speculate on its key components, later detailed as a lean model canvas, see figure \ref{fig:lean-model-canvas}.
@@ -98,7 +92,16 @@ This allowed the team to identify challenges in realising our product, especiall
 We consider development of our revenue stream the most crucial yield from this, where the team focused in on the economic potential of providing storegoers' movement data to retailers, a concept which is missing in the current market.
 
 The team identified the main customer segment of our product as retail stores, primarily grocery stores, and our users as the contingent of shoppers who appreciate assistance and guidance in finding what they need, as well as shoppers who need to execute large shopping lists quickly such as larger families with limited time.
+
+\begin{figure}[ht]
+    \centering
+    \includegraphics[width=1\textwidth]{lean model canvas.png}
+    \caption{Lean model canvas describing \companyName's business model}
+    \label{fig:lean-model-canvas}
+\end{figure}
+
 \subsection{MOM Testing and Prototyping} 
+
 We used the mom test to understand potential users' experiences with in-store shopping in order to refine and validate our market-product fit. 
 Friends, family and coworkers of team members were asked the following questions:
 \begin{enumerate}
@@ -111,87 +114,18 @@ Friends, family and coworkers of team members were asked the following questions
     \item Is it important for you to save time while shopping?
 \end{enumerate}
 Our small-scale research found that a majority of the people we asked were interested in cutting down the time it takes for them to shop, especially in grocery stores. It also suggested that users are not opposed to using digital tools to navigate within stores.
-
 Many test subjects expressed frustration in regularly having issues finding certain items. Frustration was also described in not reliably being able to ask in-store personnel questions, either due to social barriers or more commonly due to lack of available personnel. 
 The results from the test suggest that our solution fits well into the current market.
 
-Prototyping provided further insights as our mockups (see figure \ref{fig:mockups}) were presented to a new round of subjects. 
+Prototyping provided further insights as our mockups, as seen in figure \ref{fig:mockups}, were presented to a new round of subjects. 
 These insights were used to narrow down what features were most important to users and confirmed the validity of existing ideas, such as in-app ad space. 
-
 Our product would directly address these issues perceived by the public. Unlike current solutions, which give minimal or no information to the consumer on where to go for various items,
 our solution aims to instead give the consumer the ability to find items with a mobile solution,
 letting them obtain information of product positions without having to actively seek them out.
 In addition, the staff requirement of providing information to store customers would be greatly relaxed.
 
-Usage and improvement of our product are tightly interconnected, as by user data such as store customer positions over time 
-and user-provided map complementary data, our product improves. 
-Unlike other solutions, our model can also combine the data from different model consumers, 
-facilitating a high potential for growth.
-\subsection{Cost and Revenue Model development}
-From the ideas that arose during initial workshopping, our team worked to develop a concrete plan for both costs and revenue.
-\subsection{Revenue Model}
-It became clear to us that a sustainable business model for both our company and our clients would be a licensing fee, where a retail client pays a fee to implement their location into our product. 
-
-An early challenge was identified in motivating potential customers, as we realised that retailers might be hesitant to pay to license a product that would lead to shoppers spending less time in stores.
-This is due to the established correlation between spending time in stores and spending money in said store.\cite{byron}  
-
-To combat this theoretical reluctance, our team realised the value in providing analytic data of shopper movement within their locations. Retail stores spend large amounts of money yearly to optimize store layouts, but rely on more broad metrics such as purchases per shopper or shoppers per day.
-
-With our unique data, retailers will gain unique and detailed insights into where their shoppers are spending time within stores, allowing them to create effective adjustments to layout and product placement.
-
-Therefore, licensing our product would not only provide them the opportunity to cut labor costs on store personnel needing to assist shoppers with navigation and stock info, but also provide unique insights into shopper behavior. Our team feels that this proposition outweighs potential loss of user time spent in stores.
-
-In addition to this, significant streams of revenue are to be gained from in-app advertisement. The value of providing user with context-appropriate ads related to things they are actively searching for is quite substantial, and we believe our product provides unique value to this area.
-
-\subsection{Cost Model}
-The team used preexisting knowledge and experiences of app development to develop a structure of variable and fixed costs:
-\subsubsection{Fixed costs}
-\begin{itemize}
-  \item App Development and Maintenance:
-  \begin{itemize}
-    \item Salaries
-    \item Design costs
-    \item Testing tools and QA
-  \end{itemize}
-    \item Cloud infrastructure
-    \item Third-party APIs for mapping and localization
-    \item Office space (optional if remote first)
-    \item Administrative costs
-    \item Legal costs
-  \end{itemize}
-  \subsubsection{Variable costs}
-  \begin{itemize}
-    \item Digital advertising
-    \item Content marketing
-    \item Retailer outreach
-    \item Customer support
-  \end{itemize}
-
-\begin{figure}[ht]
-    \centering
-    \includegraphics[width=1\textwidth]{lean model canvas.png}
-    \caption{Lean model canvas describing \companyName's business model}
-    \label{fig:lean-model-canvas}
-\end{figure}
-
-\section{Market Analysis}
-Our product would be aimed at in-store shoppers, people who want help getting around different stores and getting the best possible deals for what they are searching for. There are multiple current alternatives that cover part of what we aim for. For example, many supermarket stores have their own apps that show weekly deals, searching for products, among other things. Other apps like Tiendeo offer the possibility of seeing the catalog of discounts in nearby stores in your area. And the stores themselves usually display their own discounts and offer physical catalogs with their offers. 
-
-Though this helps when searching for deals, it does not help customers find their way within the store, where they would rely on looking around, checking the signs or asking for help from the store personnel. Pointr offers the possibility of indoor positioning, but it has not reached the Swedish market, and it is limited to countries like the US and the UK. 
-
-We present a unique opportunity for companies that partner with us to collect data on in-store customer behaviour, especially when privacy laws are increasingly restrictive on what data companies can collect. By using the shopping list and the route that the customer takes throughout the store, we can track what items customers buy beyond what they initially intend to. This can help the stores improve their in-store marketing and figure out what gets the customer to stop in their tracks and spontaneously purchase an item.
-
-From the purely technical perspective, our startup has the competency to develop an initial working prototype or something resembling a finished product. The main worries would be maintaining a larger operation and managing the legal side of the startup since we are a small team of computer science students.
-
-Our product has the ability to combine the side of navigation within the store, optimizing routes according to items or shopping lists, plus promoting the user with deals and offering the option to compare product prices in different stores from the comfort of a single app.
-
-For our initial market we would aim to partner with some individual stores in limited locations to show both users and customers, like supermarket chains, the possibilities our app offers. We would start with a smaller city, like Lund, and promote the app in front of the stores we would be partnered with. We would aim our product mainly at bigger families, who want to optimize the time they spend in stores and the amount of money they spend on products.
-
-Through the use of prototyping we were able to explore, on a small-scale, the viability of our product with it's target audience. This was done using a general description of the product alongside mock-up images, see Figure \ref{fig:mockups}.
-This prototyping provided further insights, as potential users were allowed to visualize the product and results were largely positive. Valuable feedback in requests for functionality and accessibility provided our team with structure for implementing a final product.
-
-A worry with our product is that initially it is up to the stores which we partner with to push the customers to use the product. Many customers get used to their own habits of shopping and would be reluctant to use a service with the intent of breaking their habits and making them visit other stores in order to get the best deals. Since we intend to work with convenience and retail stores who most likely have already established a customer base, it might be difficult to incentivize them to use a new system in order to better their customer experience with no guarantee that it will make a difference.
-
+Usage and improvement of shmap are tightly interconnected, as our product can be improved over time by utilizing our users data, such as customers' store positions and user-provided complementary map data.
+Unlike other solutions, our model can also combine the data from different model consumers, facilitating a high potential for growth.
 
 \begin{figure}[h!]
     \centering
@@ -211,26 +145,88 @@ A worry with our product is that initially it is up to the stores which we partn
     \label{fig:mockups}
 \end{figure}
 
+\subsection{Cost and Revenue Model development}
+
+From the ideas that arose during the initial workshopping, our team worked to develop a concrete plan for both costs and revenue.
+
+\subsection{Revenue Model}
+
+It became clear to us that a sustainable business model for both our company and our clients would be a licensing fee, where a retail client pays a fee to implement their location into our product. 
+
+An early challenge was identified in motivating potential customers, as we realised that retailers might be hesitant to pay to license a product that would lead to shoppers spending less time in stores.
+This is due to the established correlation between spending time and spending money in stores \cite{byron}. To combat this theoretical reluctance, our team realised the value in providing analytic data of shopper movement within their locations. Retail stores spend large amounts of money yearly to optimize store layouts, but rely on more broad metrics such as purchases per shopper or shoppers per day.
+
+With our unique data, retailers will gain unique and detailed insights into where their shoppers are spending time within stores, allowing them to create effective adjustments to layout and product placement.
+
+Therefore, licensing our product would not only provide them the opportunity to cut labor costs on store personnel needing to assist shoppers with navigation and stock info, but also provide unique insights into shopper behavior. Our team feels that this proposition outweighs potential loss of user time spent in stores.
+
+In addition to this, significant streams of revenue are to be gained from in-app advertisement. The value of providing users with context-appropriate ads related to things they are actively searching for is quite substantial, and we believe our product provides unique value to this area.
+
+\subsection{Cost Model}
+
+The team used preexisting knowledge and experiences of app development to develop a structure of variable and fixed costs:
+
+\subsubsection{Fixed costs}
+
+\begin{itemize}
+  \item App Development and Maintenance:
+  \begin{itemize}
+    \item Salaries
+    \item Design costs
+    \item Testing tools and QA
+  \end{itemize}
+    \item Cloud/server infrastructure
+    \item Third-party APIs for mapping and localization
+    \item Office space (optional if remote first)
+    \item Administrative costs
+    \item Legal costs
+  \end{itemize}
+  \subsubsection{Variable costs}
+  \begin{itemize}
+    \item Digital advertising
+    \item Content marketing
+    \item Retailer outreach
+    \item Customer support
+  \end{itemize}
+
+\section{Market Analysis}
+
+Our product would be aimed at in-store shoppers, people who want help getting around different stores and getting the best possible deals for what they are searching for. There are multiple current alternatives that cover part of what we aim for. For example, many supermarket stores have their own apps that show weekly deals, searching for products, among other things. Other apps like Tiendeo offer the possibility of seeing the catalog of discounts in nearby stores in your area. And the stores themselves usually display their own discounts and offer physical catalogs with their offers. 
+
+Though this helps when searching for deals, it does not help customers find their way within the store, where they would rely on looking around, checking the signs or asking for help from the store personnel. Pointr offers the possibility of indoor positioning, but it has not reached the Swedish market, and it is limited to countries like the US and the UK. 
+
+We present a unique opportunity for companies that partner with us to collect data on in-store customer behaviour, especially when privacy laws are increasingly restrictive on what data companies can collect. By using the shopping list and the route that the customer takes throughout the store, we can track what items customers buy beyond what they initially intend to. This can help the stores improve their in-store marketing and figure out what gets the customer to stop in their tracks and spontaneously purchase an item.
+
+From the purely technical perspective, our startup has the competency to develop an initial working prototype or something resembling a finished product. The main worries would be maintaining a larger operation and managing the legal side of the startup since we are a small team of computer science and engineering students.
+
+Our product has the ability to combine the side of navigation within the store, optimizing routes according to items or shopping lists, plus promoting the user with deals and offering the option to compare product prices in different stores from the comfort of a single app.
+
+For our initial market we would aim to partner with some individual stores in limited locations to show to both users and customers, like supermarket chains, the possibilities our app offers. We would start with a smaller city, like Lund, and promote the app in front of the stores we would be partnered with. We would aim our product mainly at bigger families, who want to optimize the time they spend in stores and the amount of money they spend on products.
+
+Through the use of prototyping we were able to explore, on a small-scale, the viability of our product with its target audience. This was done using a general description of the product alongside the mock-up images, see Figure \ref{fig:mockups}.
+This prototyping provided further insights, as potential users were allowed to visualize the product and results were largely positive. Valuable feedback in requests for functionality and accessibility provided our team with structure for implementing a final product.
+
+A worry with our product is that initially it is up to the stores which we partner with to push the customers to use the product. Many customers get used to their own habits of shopping and would be reluctant to use a service with the intent of breaking their habits and making them visit other stores in order to get the best deals. Since we intend to work with convenience and retail stores who most likely have already established a customer base, it might be difficult to incentivize them to use a new system in order to better their customer experience with no guarantee that it will make a difference.
+
 \subsection{SWOT}
+
 As a group our technical competence is great and we have experience with startups, graphical design, working in grocery shops and programming. Since we are six computer science students we would be able to solve software issues which arise such as bugs and implementing features which customers request. We have made an accurate depiction of how our product would fit into the market and have come up with a great way to appeal to customers and how our product would solve issues perceived by the public.
-
-
 
 \section{Implementation plan}
 
-The launch of schmap hinges on its main features, navigation, product search and the shopping list, being implemented into a cohesive application. The system of anatomy of schmap, as described in figure \ref{fig:sysanat}, allows us to structure a time-based implementation plan, which is shown in figure \ref{fig:ganttchart}.
+The launch of shmap hinges on its main features, navigation, product search and the shopping list, being implemented into a cohesive application. The system of anatomy of \companyName, as described in figure \ref{fig:sysanat}, allows us to structure a time-based implementation plan, which is shown in figure \ref{fig:ganttchart}.
 
 \begin{figure}[h]
     \centering
     \includegraphics[width=0.5\textwidth]{SystemAnatomy.png}
-    \caption{schmap's system anatomy}
+    \caption{\companyName's system anatomy}
     \label{fig:sysanat}
 \end{figure}
 
 \begin{figure}[h]
     \centering
     \includegraphics[width=0.7\textwidth]{implementation_plan.png}
-    \caption{Gantt chart describing the implementation plan of schmap}
+    \caption{Gantt chart describing the implementation plan of \companyName}
     \label{fig:ganttchart}
 \end{figure}
 
@@ -247,18 +243,18 @@ In order to mitigate these risks, MOM-tests and prototyping will help the team e
 
 Inexperience in the team give rise to risks involving poor or insufficient planning, and an unrealistic schedule and budget. The plan may lack in granularity in turn leading to inaccurate estimates. Some important tasks may be overlooked or forgotten, or things may be planned out in a suboptimal way. Resources may be wrongly distributed causing a delay in some part of the project while an other part is stalled waiting for the delayed part.
 
-By carefully applying well tested and known methods in creating a system anatomy and implementation plan, we hope to mitigate some of the risk. Methods like planning poker to estimate effort on different activities, and trying to give a little more slack than believed necessary some extra room for error should be created. Regular check-ins with the team to see the progress will allow potential problems to be discovered earlier so that action may be taken to minimize consequences. If possible a mentor or a review by someone with more experience in software related business could also be helpful when finalizing the implementation plan.
+By carefully applying well tested and known methods in creating a system anatomy and implementation plan, we hope to mitigate some of the risk. Methods like planning poker to estimate effort on different activities, and trying to give a little more slack than believed necessary would create some extra room for error. Regular check-ins with the team to see the progress will allow potential problems to be discovered earlier so that action may be taken to minimize consequences. If possible a mentor or a review by someone with more experience in software related business could also be helpful when finalizing the implementation plan.
 
 A complete risk assessment, including risks, risk level estimation, mitigating actions and monitoring can be found in the table below.
 
 \begin{center}
 \footnotesize
-\begin{longtable}{p{1.8cm}p{3cm}p{1.2cm}p{3cm}p{1.5cm}}
+\begin{longtable}{p{2.1cm}|p{3.5cm}p{1.2cm}p{3.5cm}p{1.7cm}}
 \multicolumn{5}{c}{\bfseries Risk Assessment Table}\\
 \\
 \hline
 \\
- Level & Specification & Risk Est. & Mitigation & Monitoring \\
+ Level & Specification & Risk est. & Mitigation & Monitoring \\
  \\
  \hline
  \\
@@ -324,15 +320,8 @@ Erik Nicander: Participated in group discussions and planning, attended seminars
 \\
 Nils Reberg: Took on a leading role in coming up with and refining the business idea and strategy, and completing Lean Canvas.  Involved in planning and execution of MOM-test. Author of the Executive summary section. Total time about 5 hrs spent.\\
 
-
-
-
-
-
-
-
- \newpage
- \bibliography{bibliography}
- \bibliographystyle{unsrt}
+%\newpage
+\bibliography{bibliography}
+\bibliographystyle{unsrt}
 
 \end{document}
