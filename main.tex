@@ -230,8 +230,15 @@ The launch of shmap hinges on its main features, navigation, product search and 
     \label{fig:ganttchart}
 \end{figure}
 
+The estimated leadtime for getting an intial working version of shmap on to the market is five to six weeks. When it comes to software, the project starts at implementing a map API and product catalog database, as to create a proof of concept. The product catalog database can be implemented using e.g. MySQL, while one of the assigned developers creates some dummy data for testing purposes. This database has to be implemented before the any indexation of a real stores' products can be done, and is therefore done first of all. Likewise, the map API serves as the most distinguishable part of the core functionality, around which the rest of the application will be constructed. Estimated time to implement these features are about five days.
 
+When these core features are in working condition, it is possibly to further develop shmap's functionality on top of this, as in three developers implementing a pathfinding API, which depends on a map existing on which to pathfind. At the same time, a search algorithm will be implemented, which will both search the product catalog database and then map the products onto the map, where the pathfinding algorithm will find the best path between all the products.
 
+In order to make shmap more scalable, a store layout database will be implemented where the navigation can then be applied to. In order to make use of this database, the map API is to be modified as to be able to handle indoor positioning.
+
+When a working backend is available, a frontend has to be made. This includes both making a map UI to make navigation possible, upon which the actual navigation UI, as seen in figure \ref{fig:mockups}, will be implemented. A search bar to search through the product catalog database also has to be made after completion of the search algorithm. Both the map UI and the search bar should be completable within 3 days time, as they only serve as way to interact visually with the map API and the product catalog database. Eight days have been given to the navigation UI, as extensive testing has to be done in order for this functionality to be of the highest quality, as it constitutes the most core function of shmap.
+
+Mostly everyone is to find a store for shmap to catalog, as shmap serves no purpose wihtout one. As soon as one is found, mapping the store layout and index inventory is to be carried out in about 13 days, by which time both the product catalog databse and the store layout database have to be done.
 
 \section{Risk assessment}
 
